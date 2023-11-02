@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RazorPagesPizzaDb
+build_property.RootNamespace = RazorPagesPizzaDb
+build_property.ProjectDir = c:\Users\CAIO_PEREIRA\Desktop\Estágio\Estágio Codes\RazorPagesPizzaDb\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\CAIO_PEREIRA\Desktop\Estágio\Estágio Codes\RazorPagesPizzaDb
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Pizza/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Pizza/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Pizza/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Pizza/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Pizza/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGl6emFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/CAIO_PEREIRA/Desktop/Estágio/Estágio Codes/RazorPagesPizzaDb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gknr34hcow

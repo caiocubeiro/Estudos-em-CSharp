@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OA4RZ/wbHxjgbY8GA0+wF/b7p2OgeOLsvWZpPFiQEyYDzhrVudfhwETXptS0mmW4yKjtO1T3TnKFfLQ7w38lXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CAIO_PEREIRA\\Desktop\\Estágio\\Estágio Codes\\DotNetAPIRest\\DotNetAPIRest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\CAIO_PEREIRA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
